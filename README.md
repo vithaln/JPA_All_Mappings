@@ -1,0 +1,1 @@
+# JPA_All_Mappings
